@@ -1,6 +1,5 @@
 import mediapipe as mp
 import cv2
-from time import sleep
 
 mp_maos = mp.solutions.hands
 
